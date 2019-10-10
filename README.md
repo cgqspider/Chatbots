@@ -15,4 +15,17 @@ This project is dedicated Repositry for the chatbots. In this all the chatbots i
 <h3>3. Tawk.to without watermark:</h3> it is simple chat widget which can be used for chatting purposes.
 <h3>How to run :</h3> Simply host the code from any localhost or any web server. NOTE: Make sure internet is connected and html file should be hosted...
 <h3>Demo:</h3> <img src="./tawkDemo.png" />
+
+
+<h3>3. Collect.chat:</h3> This is simple chatbot with some of the buttons
+<h3>How to run :</h3> Simply host the code from any localhost or any web server. NOTE: Make sure internet is connected and html file should be hosted...
+<h3>Demo:</h3> <img src="./CollectDemo.gif" />
+
+<h3>3. Tidio:</h3> This is simple chatbot with some of the buttons and normal user conversations both (Its ok type bot)
+<h3>How to run :</h3> Simply host the code from any localhost or any web server. NOTE: Make sure internet is connected and html file should be hosted...
+<h3>Demo:</h3> <img src="./tidioDemo.gif" />
+
+<br>
+Except these there is amazon lex, motion.ai, https://www.kommunicate.io/ this is hybrid bot human and bot oth communicate in absence of each other
+
 <h1>Blog:</h1> https://medium.com/@aadityamonu67/how-to-use-tawk-to-without-watermark-b5a6b5e2783e
