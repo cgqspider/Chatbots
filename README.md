@@ -6,7 +6,7 @@ This project is dedicated Repositry for the chatbots. In this all the chatbots i
 
 
 <hr>
-<h3>2. Dialogflow Google Chatbot:</h3> It is made for my resume it will tell about my skills and things.
+<h3>2. Dialogflow Google Chatbot:</h3> It is made for my resume it will tell about my skills and things. use https://portal.botcopy.com/bot-prompts to integrate the chatbots to the website.
 <h3>How to run :</h3> simply right click on the HTML file and open with browser. NOTE: Make sure internet is connected...
 <h3>Demo:</h3> <img src="./dgDemo.gif" />
 
